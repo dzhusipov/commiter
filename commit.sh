@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set up the start and end dates
-START_DATE="2023-01-01"
+START_DATE="2024-01-01"
 END_DATE=$(date +%F) # Today's date
 
 # Loop over each day
